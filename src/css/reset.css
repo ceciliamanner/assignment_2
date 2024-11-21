@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    font-family: 'roboto-condensed';
+
+}
+
+@font-face {
+    font-family:'roboto-condensed';
+    src: url(../assets/fonts/roboto-condensed.ttf);
+
+}
