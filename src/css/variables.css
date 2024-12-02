@@ -1,4 +1,5 @@
 :root {
+  /* colors */
     --color-foreground: #ffffff; 
     --color-background: #0e0e27; 
 
@@ -8,4 +9,8 @@
     --spacing-large: 3rem;
     --spacing-xlarge: 4rem;      
 
+}
+@font-face {
+  font-family:'roboto-condensed';
+  src: url(../assets/fonts/roboto-condensed.ttf);
 }
