@@ -32,7 +32,7 @@ Clean and user-friendly layout.
 
 
 ## Licese
-This project is licensed under MII License 
+This project is licensed under MIT License 
 
 ## Contact 
 If you have any questions or suggestions, feel free to reach out to me at [ceciliamannerr@gmail.com].
